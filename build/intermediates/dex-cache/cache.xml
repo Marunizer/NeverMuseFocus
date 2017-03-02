@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\libs\libmuse_android.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="e756fe8826070e7f2a88030bf3dcfdf68a625905">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\2\libmuse_android_0796aae45ac7d59acc4f599c51043c767cf5ca06\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\mende\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.1.1_c1d8f345664f15cdc5ee58d5755b02f62a83380a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_accff0e9d48099d2769c1babb9e5b9418c0bfc20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_f24128b0c1d6d5662b150436417a2fd28a59a612\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b8ba778fb24e4d99fa2d6a5ab39448b0cd34557f">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_3c57fb510cb81154af0f4965b2c2065fd6bbc27e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3148dffb14bb5958bc7d05af94412951f78c7127">
+        <dex dex="D:\Mauricio Mendez\libmuse_6.0.0\android\examples\NeverMuseFocus\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_2673bc2d6958a2761f49556adfa2be4209ad6506\classes.dex" />
+    </item>
+
+</items>

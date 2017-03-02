@@ -1,0 +1,7 @@
+#Wed Mar 01 21:08:19 EST 2017
+base.0=D\:\\Mauricio Mendez\\libmuse_6.0.0\\android\\examples\\NeverMuseFocus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2673bc2d6958a2761f49556adfa2be4209ad6506
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Mauricio Mendez\\libmuse_6.0.0\\android\\examples\\NeverMuseFocus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3c57fb510cb81154af0f4965b2c2065fd6bbc27e\\classes.dex
+base.1=D\:\\Mauricio Mendez\\libmuse_6.0.0\\android\\examples\\NeverMuseFocus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_3c57fb510cb81154af0f4965b2c2065fd6bbc27e
+file.0=D\:\\Mauricio Mendez\\libmuse_6.0.0\\android\\examples\\NeverMuseFocus\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_2673bc2d6958a2761f49556adfa2be4209ad6506\\classes.dex
